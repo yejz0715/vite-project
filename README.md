@@ -5,7 +5,7 @@
 ### vite란?
 
 빠르고 간결한 모던 웹 프로젝트 개발 경험에 초점을 맞춰 만들어진 빌드 도구이다. </br>
-시작은 vue를 위한 빌드도구였지만, 현재는 vanilla, vue, react,svelte 등 에서 사용이 가능하며, javascript, typescript도 모두 사용 가능하다.
+시작은 vue를 위한 빌드도구였지만, 현재는 vanilla, vue, react, svelte 등 에서 사용이 가능하며, javascript, typescript도 모두 사용 가능하다.
 
 </br>
 
@@ -13,7 +13,7 @@
 
 1. 빌드속도가 빠르다. </br>
 기존에 사용하던 webpack의 빌드 도구는 자바크립트 언어로 만들어졌지만, 
-vite가 내부적으로 사용하는 ESBulid는 Go라는 네이티브 언어로 만들어진 도구를 이용해 빌드하기 때문에 
+vite가 내부적으로 사용하는 ESBuild는 Go라는 native 언어로 만들어진 도구를 이용해 빌드하기 때문에 
 빌드 속도가 아주 빠르다.
 
 2. 개발 서버가 빠르게 구동된다.</br>
